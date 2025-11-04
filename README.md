@@ -1,6 +1,7 @@
-# Portfolio Hugo Becker - Développeur Full Stack
+# Portfolio Hugo Becker - Développeur Full Stack (2025)
 
-Un portfolio/CV moderne et sophistiqué créé avec **Next.js 15**, **React 19** et **Tailwind CSS**.
+Un portfolio/CV moderne et sophistiqué créé avec **Next.js 15**, **React 19** et **Tailwind CSS**,
+Pour pouvoir reprendre ma structure, c'est en dessous 👇.
 
 ## 🚀 Fonctionnalités
 

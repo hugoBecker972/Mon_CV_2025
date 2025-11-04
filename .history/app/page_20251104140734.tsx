@@ -1,6 +1,6 @@
-import Header from '@/app/components/Header';
-import Sidebar from '@/app/components/Sidebar';
-import MainContent from '@/app/components/MainContent';
+import Header from './components/Header';
+import Sidebar from './components/Sidebar';
+import MainContent from './components/MainContent';
 
 export default function Home() {
   return (
